@@ -1,0 +1,8 @@
+{
+  "name": "projects-dashboard",
+  "version": "1.0.0",
+  "description": "Live projects showcase dashboard",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
